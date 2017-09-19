@@ -1,0 +1,4 @@
+.DS_Store
+venmo_output/*
+!venmo_output/.gitkeep
+
