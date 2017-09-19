@@ -1,5 +1,9 @@
 
-f Contents
+This program is a response to InsightDataScience coding challenge: https://github.com/InsightDataScience/coding-challenge.
+
+To run the program: clone the repo; cd into the repo root, then type in the commandline: **sh run.sh** 
+
+# Table of Contents
 
 1. [Challenge Summary] (README.md#challenge-summary)
 2. [Details of Implementation] (README.md#details-of-implementation)
